@@ -2,6 +2,7 @@
 
 
 <div align="center">
+  
 ## <p align="left"> Rechtsordnung </p>
   <img src="./img/rechtsordnung.png" alt="rechtsordnung" width=80%>
   
