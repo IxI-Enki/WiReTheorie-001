@@ -41,3 +41,7 @@
   - ## <p align="left"> Enterbung </p>
 
     <img src="./img/enterbung.png" alt="enterbung" width=80%>
+
+- # <p align="left"> Formelles Erbrecht </p>
+
+    <img src="./img/formelles-recht.png" alt="formelles-recht" width=80%>
