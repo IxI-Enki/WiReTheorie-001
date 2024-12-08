@@ -29,7 +29,7 @@
     - #### [Ehewirkungen](https://github.com/IxI-Enki/WiReTheorie-001/blob/master/FamilienRecht.md#-ehewirkungen-)
     - #### [Ehegüter](https://github.com/IxI-Enki/WiReTheorie-001/blob/master/FamilienRecht.md#--eheg%C3%BCter-)
     - #### [Scheidung](https://github.com/IxI-Enki/WiReTheorie-001/blob/master/FamilienRecht.md#-scheidung-)   
-  - ### [Lebensgemeinschaft / Ehe]()
+  - ### [Lebensgemeinschaft / Ehe](https://github.com/IxI-Enki/WiReTheorie-001/blob/master/FamilienRecht.md#-lebensgemeinschaft--ehe-)
 
 <!---
 </div>
