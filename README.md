@@ -20,7 +20,7 @@
     - #### [Erwachsenenvertretung](https://github.com/IxI-Enki/WiReTheorie-001/blob/master/Personenrecht.md#-erwachsenen-vertretung-)
     - #### [Gesetzliche Vertreter](https://github.com/IxI-Enki/WiReTheorie-001/blob/master/Personenrecht.md#-gesetzliche-vertreter-)
     - #### [Erwachsenen Schutzgesetz](https://github.com/IxI-Enki/WiReTheorie-001/blob/master/Personenrecht.md#-erwachsenen-schutzgesetz-)
-
+  - ### [Juristische Person](https://github.com/IxI-Enki/WiReTheorie-001/blob/master/Personenrecht.md#-juristische-person-)
 ---
 
 - ## 3.) Familien Recht
