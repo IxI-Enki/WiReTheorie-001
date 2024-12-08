@@ -1,9 +1,11 @@
 ###### <p align="center"> WiReTheorie-001 </p>
 
-# Rechtsordnung
 
 <div align="center">
+## <p align="left"> Rechtsordnung </p>
   <img src="./img/rechtsordnung.png" alt="rechtsordnung" width=80%>
+  
+## <p align="left"> Öffentliches Recht / Privatrecht </p> 
   <img src="./img/einteilung_des_rechts.png" alt="einteilung_des_rechts" width=80%>
 
 ## <p align="left"> Arten des Rechts </p> 
