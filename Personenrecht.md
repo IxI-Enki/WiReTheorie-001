@@ -34,4 +34,6 @@
 
   <img src="./img/vertraeter.png" alt="vertraeter" width=80%>
   
-  
+# <p align="left"> Juristische Person </p>
+
+  <img src="./img/juristische-person.png" alt="juristische-person" width=80%>
