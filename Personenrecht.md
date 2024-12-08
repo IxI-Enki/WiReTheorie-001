@@ -10,7 +10,7 @@
 
   <img src="./img/rechtsfaehigkeit-handlungsfehigkeit.png" alt="rechtsfaehigkeit-handlungsfehigkeit" width=80%>
 
-## <p align="left"> Ende der Rechtsfähigkeit </p>
+### <p align="left"> Ende der Rechtsfähigkeit </p>
 
   <img src="./img/rechtsfaehigkeit-ende.png" alt="rechtsfaehigkeit-ende" width=80%>
 
@@ -21,3 +21,17 @@
 ## <p align="left"> Geschäftsfähigkeit </p>
 
   <img src="./img/geschaeftsfaehigkeit.png" alt="geschaeftsfaehigkeit" width=80%> 
+
+## <p align="left"> Erwachsenen Vertretung </p>
+
+  <img src="./img/erwachsenen-vertretung.png" alt="erwachsenen-vertretung" width=80%>
+
+### <p align="left"> Gesetzliche Vertreter </p>
+
+  <img src="./img/vertraeter.png" alt="vertraeter" width=80%>
+
+### <p align="left"> Erwachsenen Schutzgesetz </p>
+
+  <img src="./img/vertraeter.png" alt="vertraeter" width=80%>
+  
+  
