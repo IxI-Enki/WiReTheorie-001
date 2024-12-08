@@ -1,1 +1,23 @@
-Personenrecht
+###### <p align="center"> WiReTheorie-001 </p>
+
+
+<div align="center">
+
+# <p align="center"> Personenrecht </p>
+  
+# <p align="left"> Natürliche Person </p>
+## <p align="left"> Rechtsfähigkeit / Handlungsfähigkeit </p>
+
+  <img src="./img/rechtsfaehigkeit-handlungsfehigkeit.png" alt="rechtsfaehigkeit-handlungsfehigkeit" width=80%>
+
+## <p align="left"> Ende der Rechtsfähigkeit </p>
+
+  <img src="./img/rechtsfaehigkeit-ende.png" alt="rechtsfaehigkeit-ende" width=80%>
+
+## <p align="left"> Handlungsfähikeit </p>
+
+  <img src="./img/handlungsfehigkeit-teile.png" alt="handlungsfehigkeit-teile" width=80%>
+
+## <p align="left"> Geschäftsfähigkeit </p>
+
+  <img src="./img/geschaeftsfaehigkeit.png" alt="geschaeftsfaehigkeit" width=80%> 
