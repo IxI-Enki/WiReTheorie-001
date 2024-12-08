@@ -34,11 +34,16 @@
 
 ---
 
-- ## 4.) [Erbrecht]()
-  - ###
-  - ###
-  - ###
-  - ###
+- ## 4.) [Erbrecht](https://github.com/IxI-Enki/WiReTheorie-001/blob/master/Erbrecht.md)
+  - ### [Begriffe](https://github.com/IxI-Enki/WiReTheorie-001/blob/master/Erbrecht.md#-erbrecht-begriffe-)
+  - ### [Testamentschließung](https://github.com/IxI-Enki/WiReTheorie-001/blob/master/Erbrecht.md#-testamentschlie%C3%9Fung-)
+    - #### [Inhalte](https://github.com/IxI-Enki/WiReTheorie-001/blob/master/Erbrecht.md#-testament-inhalte-)
+    - #### [Testierfähigkeit](https://github.com/IxI-Enki/WiReTheorie-001/blob/master/Erbrecht.md#-testierf%C3%A4higkeit-)
+  - ### [Erbvertrag](https://github.com/IxI-Enki/WiReTheorie-001/blob/master/Erbrecht.md#--erbvertrag-)
+    - #### [Erbfolge](https://github.com/IxI-Enki/WiReTheorie-001/blob/master/Erbrecht.md#-erbfolge-)
+  - ### [Gesetzlicher Voraus Pflichtteil](https://github.com/IxI-Enki/WiReTheorie-001/blob/master/Erbrecht.md#-gesetzlicher-voraus-pflichtteil-)
+    - #### [Enterbung](https://github.com/IxI-Enki/WiReTheorie-001/blob/master/Erbrecht.md#-enterbung-)
+  - ### [Formelles Erbrecht](https://github.com/IxI-Enki/WiReTheorie-001/blob/master/Erbrecht.md#-formelles-erbrecht-)
 <!---
 </div>
 <div align="right">
