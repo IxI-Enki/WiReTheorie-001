@@ -22,18 +22,18 @@
 
   <img src="./img/geschaeftsfaehigkeit.png" alt="geschaeftsfaehigkeit" width=80%> 
 
-## <p align="left"> Erwachsenen Vertretung </p>
-
-  <img src="./img/erwachsenen-vertretung.png" alt="erwachsenen-vertretung" width=80%>
-
-### <p align="left"> Gesetzliche Vertreter </p>
+## <p align="left"> Gesetzliche Vertreter </p>
 
   <img src="./img/vertraeter.png" alt="vertraeter" width=80%>
 
 ### <p align="left"> Erwachsenen Schutzgesetz </p>
 
   <img src="./img/erwachsenenschutzgesaetz.png" alt="erwachsenenschutzgesaetz" width=80%>
-  
+
+### <p align="left"> Erwachsenen Vertretung </p>
+
+  <img src="./img/erwachsenen-vertretung.png" alt="erwachsenen-vertretung" width=80%>
+
 # <p align="left"> Juristische Person </p>
 
   <img src="./img/juristische-person.png" alt="juristische-person" width=80%>
