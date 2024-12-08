@@ -20,6 +20,7 @@
     - #### [Gesetzliche Vertreter](https://github.com/IxI-Enki/WiReTheorie-001/blob/master/Personenrecht.md#-gesetzliche-vertreter-)
     - #### [Erwachsenen Schutzgesetz](https://github.com/IxI-Enki/WiReTheorie-001/blob/master/Personenrecht.md#-erwachsenen-schutzgesetz-)
   - ### [Juristische Person](https://github.com/IxI-Enki/WiReTheorie-001/blob/master/Personenrecht.md#-juristische-person-)
+
 ---
 
 - ## 3.) [Familien Recht](https://github.com/IxI-Enki/WiReTheorie-001/blob/master/FamilienRecht.md#-familienrecht-)
@@ -31,6 +32,13 @@
     - #### [Scheidung](https://github.com/IxI-Enki/WiReTheorie-001/blob/master/FamilienRecht.md#-scheidung-)   
   - ### [Lebensgemeinschaft / Ehe](https://github.com/IxI-Enki/WiReTheorie-001/blob/master/FamilienRecht.md#-lebensgemeinschaft--ehe-)
 
+---
+
+- ## 4.) [Erbrecht]()r
+  - ###
+  - ###
+  - ###
+  - ###
 <!---
 </div>
 <div align="right">
