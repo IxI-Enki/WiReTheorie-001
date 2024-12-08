@@ -2,7 +2,7 @@
 
 <div align="right"> 
   
-  [All in One](https://github.com/IxI-Enki/WiReTheorie-001/blob/master/img/personenrecht.png) 
+  [All in One](https://github.com/IxI-Enki/WiReTheorie-001/blob/master/img/familienrecht.png) 
   </div>
 
 
