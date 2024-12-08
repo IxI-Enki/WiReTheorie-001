@@ -10,7 +10,7 @@
 
 - # <p align="center"> Erbrecht </p>
   
-  - ## <p align="left"> erbrecht-begriffe </p>
+  - ## <p align="left"> Erbrecht-Begriffe </p>
 
 	<img src="./img/erbrecht-begriffe.png" alt="erbrecht-begriffe" width=80%>
 
