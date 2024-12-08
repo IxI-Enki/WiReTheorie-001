@@ -4,8 +4,8 @@
 
 <div align="center">
   <img src="./img/rechtsordnung.png" alt="rechtsordnung" width=80%>
-
   <img src="./img/einteilung_des_rechts.png" alt="einteilung_des_rechts" width=80%>
-
+  <img src="./img/arten_des_rechts.png" alt="arten_des_rechts" width=80%>
+  <img src="./img/subjekt_objekt.png" alt="subjekt_objekt" width=80%>
 
 </div>
