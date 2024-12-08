@@ -2,7 +2,13 @@
 
 
 <div align="center">
+
+# <p align="center"> Rechtsordnung </p>
   
+## <p align="left"> Stufenbau der Rechtsordnung </p>
+  <img src="./img/stufenbau.png" alt="stufenbau" width=80%>
+
+
 ## <p align="left"> Rechtsordnung </p>
   <img src="./img/rechtsordnung.png" alt="rechtsordnung" width=80%>
   
