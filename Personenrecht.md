@@ -32,7 +32,7 @@
 
 ### <p align="left"> Erwachsenen Schutzgesetz </p>
 
-  <img src="./img/vertraeter.png" alt="vertraeter" width=80%>
+  <img src="./img/erwachsenenschutzgesaetz.png" alt="erwachsenenschutzgesaetz" width=80%>
   
 # <p align="left"> Juristische Person </p>
 
