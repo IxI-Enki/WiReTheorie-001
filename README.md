@@ -2,4 +2,6 @@
 
 # Rechtsordnung
 
-<img src="./img/rechtsordnung.png" alt="rechtsordnung" width=80%>
+<div align="center">
+  <img src="./img/rechtsordnung.png" alt="rechtsordnung" width=80%>
+</div>
