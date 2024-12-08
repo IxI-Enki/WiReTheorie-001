@@ -34,10 +34,10 @@
 
     <img src="./img/erbfolge.png" alt="erbfolge" width=80%>
 
-  - ## <p align="center"> Gesetzlicher Voraus Pflichtteil
+  - ## <p align="center"> Gesetzlicher Voraus Pflichtteil </p>
 
     <img src="./img/gesetzlichervoraus-pflichteil.png" alt="gesetzlichervoraus-pflichteil" width=80%>
 	
-  - ## <p align="center"> Enterbung
+  - ## <p align="center"> Enterbung </p>
 
     <img src="./img/enterbung.png" alt="enterbung" width=80%>
