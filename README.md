@@ -13,3 +13,10 @@
   <img src="./img/subjekt_objekt.png" alt="subjekt_objekt" width=80%>
 
 </div>
+
+<details>
+  <summary>click für Übung</summary>
+
+  <img src="./img/uebung001.png" alt="uebung1" width=70%>
+
+</details>
