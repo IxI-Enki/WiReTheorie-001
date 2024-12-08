@@ -12,8 +12,8 @@
 ### <p align="left"> Rechtssubjekt / Rechtsobjekt</p>  
   <img src="./img/subjekt_objekt.png" alt="subjekt_objekt" width=80%>
 
+---
 </div>
-
 <div align="right">
   
 <details>
@@ -22,5 +22,6 @@
   <img src="./img/uebung001.png" alt="uebung1" width=70%>
 
 </details>
-
 </div>
+
+---
