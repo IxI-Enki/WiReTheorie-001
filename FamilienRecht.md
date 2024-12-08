@@ -30,3 +30,7 @@
 ## <p align="left"> Scheidung </p>
 
   <img src="./img/scheidung.png" alt="scheidung" width=80%>
+
+# <p align="left"> Lebensgemeinschaft / Ehe </p>
+
+  <img src="./img/ehe-lebensgemeinschaft.png" alt="ehe-lebensgemeinschaft" width=80%>
