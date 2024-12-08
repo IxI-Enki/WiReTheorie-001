@@ -14,9 +14,13 @@
 
 </div>
 
+<div align="right">
+  
 <details>
   <summary>click für Übung</summary>
 
   <img src="./img/uebung001.png" alt="uebung1" width=70%>
 
 </details>
+
+</div>
